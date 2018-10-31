@@ -1,6 +1,6 @@
 {
   "name": "aws-cli-js-jt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A node.js wrapper for the aws command line interface",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/jackytck/aws-cli-js.git"
   },
   "keywords": [
-    "aws-cli","aws"
+    "aws-cli",
+    "aws"
   ],
   "author": "Jacky Tang <jackytck@gmail.com>",
   "license": "Apache-2.0",
